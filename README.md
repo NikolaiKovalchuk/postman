@@ -8,3 +8,5 @@
 [инфа_по_постману4](https://testengineer.ru/curl-uchimsya-testirovat-api/)
 ---
 [«Как правильно читать WSDL схему»](https://lickeys.ru/computer/kak-pravilno-chitat-wsdl-shemu-wsdl-fail-s-chem-eto-edyat-soapui/)
+---
+[«Шпора по спринту»](https://drive.google.com/file/d/18u-NOMD8VJMz35vKrcRNbUygiO1JJ_90/view?usp=share_link)
