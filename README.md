@@ -10,3 +10,5 @@
 [«Как правильно читать WSDL схему»](https://lickeys.ru/computer/kak-pravilno-chitat-wsdl-shemu-wsdl-fail-s-chem-eto-edyat-soapui/)
 ---
 [«Шпора по спринту»](https://drive.google.com/file/d/18u-NOMD8VJMz35vKrcRNbUygiO1JJ_90/view?usp=share_link)
+---
+[Чек-лист по АПИ](https://gist.github.com/zeburek/8c165c9e8676945d75d91fe2f2addf8d)
