@@ -6,3 +6,5 @@
 [инфа_по_постману3](https://javascopes.com/curl-rest-fdde0047/)
 ---
 [инфа_по_постману4](https://testengineer.ru/curl-uchimsya-testirovat-api/)
+---
+[«Как правильно читать WSDL схему»](https://lickeys.ru/computer/kak-pravilno-chitat-wsdl-shemu-wsdl-fail-s-chem-eto-edyat-soapui/)
